@@ -5,7 +5,8 @@
 * E-mail: ales2503@yandex.by
 * Telegram: @alesia2503
 * GitHub: Alesia2503
-## About Me:
+## About Me:   
+I worked as a design engineer. I really like solving logical and non-standard problems. One day I decided to try programming. I started my learning with HTML, CSS and JavaScript and I liked it. I am currently improving my acquired knowledge. My goal is to become a decent web developer.
 ## Skills:
 * HTML
 * CSS (Framework: Bootstrap, Materialize; BEM methodology)
@@ -32,8 +33,8 @@ function unluckyDays(year){
 ```
 ## Aducation:
 * University:
-    * Sukhoi state technical university of Gomel / Mechanical Engineering Faculty
-    * Sukhoi state technical university of Gomel / Master Degree
+    * Sukhoi State Technical University of Gomel / Mechanical Engineering Faculty
+    * Sukhoi State Technical University of Gomel / Master Degree
 * Courses:
     * IT-Academy 
         * Basics of web-technologies
